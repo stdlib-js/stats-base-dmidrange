@@ -229,7 +229,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [mid-range]: https://en.wikipedia.org/wiki/Mid-range
 
-[@stdlib/array/float64]: https://github.com/stdlib-js/stdlib
+[@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
