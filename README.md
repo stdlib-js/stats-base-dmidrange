@@ -172,6 +172,26 @@ console.log( v );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dmax`][@stdlib/stats/base/dmax]: calculate the maximum value of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/dmean`][@stdlib/stats/base/dmean]: calculate the arithmetic mean of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/dmin`][@stdlib/stats/base/dmin]: calculate the minimum value of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/drange`][@stdlib/stats/base/drange]: calculate the range of a double-precision floating-point strided array.
+-   [`@stdlib/stats/base/smidrange`][@stdlib/stats/base/smidrange]: calculate the mid-range of a single-precision floating-point strided array.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -232,6 +252,20 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmax]: https://github.com/stdlib-js/stats-base-dmax
+
+[@stdlib/stats/base/dmean]: https://github.com/stdlib-js/stats-base-dmean
+
+[@stdlib/stats/base/dmin]: https://github.com/stdlib-js/stats-base-dmin
+
+[@stdlib/stats/base/drange]: https://github.com/stdlib-js/stats-base-drange
+
+[@stdlib/stats/base/smidrange]: https://github.com/stdlib-js/stats-base-smidrange
+
+<!-- </related-links> -->
 
 </section>
 
