@@ -1,0 +1,46 @@
+{
+  "name": "@stdlib/stats-base-dmidrange",
+  "version": "0.0.0",
+  "description": "Calculate the mid-range of a double-precision floating-point strided array.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/stats-base-dmidrange.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "statistics",
+    "stats",
+    "mathematics",
+    "math",
+    "maximum",
+    "max",
+    "minimum",
+    "min",
+    "range",
+    "midrange",
+    "mid-range",
+    "mid-extreme",
+    "extremes",
+    "mean",
+    "central tendency",
+    "strided",
+    "strided array",
+    "typed",
+    "array",
+    "float64",
+    "double",
+    "float64array"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
