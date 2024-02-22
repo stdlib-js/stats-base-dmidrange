@@ -50,7 +50,7 @@ The [**mid-range**][mid-range], or **mid-extreme**, is the arithmetic mean of th
 ## Usage
 
 ```javascript
-import dmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmidrange@esm/index.mjs';
+import dmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmidrange@v0.2.1-esm/index.mjs';
 ```
 
 #### dmidrange( N, x, stride )
@@ -161,7 +161,7 @@ var v = dmidrange.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import dmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmidrange@esm/index.mjs';
+import dmidrange from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dmidrange@v0.2.1-esm/index.mjs';
 
 var x;
 var i;
