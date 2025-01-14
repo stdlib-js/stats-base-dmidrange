@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-01-14)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`b00d9f1`](https://github.com/stdlib-js/stdlib/commit/b00d9f1064701187f48a05b9753e74ae835b0726) - **docs:** fix typing error in `repl.txt` of `stats/base/*` [(#4750)](https://github.com/stdlib-js/stdlib/pull/4750) _(by Aayush Khanna)_
 -   [`0b2e23d`](https://github.com/stdlib-js/stdlib/commit/0b2e23d1110ea3f9cb13e4918767566a94901a54) - **docs:** fix description _(by Athan Reines)_
 -   [`7e63aad`](https://github.com/stdlib-js/stdlib/commit/7e63aad8c0b42330b0933973bddea8d1c5e84862) - **fix:** wrap function calls in `API_SUFFIX` in native addons [(#4646)](https://github.com/stdlib-js/stdlib/pull/4646) _(by Aayush Khanna)_
 -   [`3fcf22f`](https://github.com/stdlib-js/stdlib/commit/3fcf22faa5d7906c4278be7ad408379c36c7396e) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dmidrange` [(#4340)](https://github.com/stdlib-js/stdlib/pull/4340) _(by Aayush Khanna)_
